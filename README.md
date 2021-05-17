@@ -40,4 +40,6 @@ show it to your react app.
 
 
 
-upload the solution on your git as "public" and send the link 
+upload the solution on your git as "public" and email the link to:
+1. anjali.bhasin@thakralone.com
+2. sony.monga@thakralone.com 

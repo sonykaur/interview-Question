@@ -5,15 +5,21 @@
 3. for first six step : Each stpe will receive user input of 2 cities seperated by hypen("-")
 4. 7th step will receive user input of 2 cities sepeared by (->) , for which we will get shortest path
 
-<input type="text" > 
 
 User input in each step:
+
 STEP 1: Singapore-Paris
+
 STEP 2: Singapore-Dubai
+
 STEP 3: Paris-Dubai 
+
 STEP 4: Paris-NewYork
+
 STEP 5: Dubai-NewYork
+
 STEP 6: NewYork-Toronto
+
 STEP 7: Singapore->NewYork
 
 you send this form data in JSON format by POST method to backend , and get the shortest route.
